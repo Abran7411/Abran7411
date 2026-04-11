@@ -62,7 +62,7 @@ A Tamil literature learning app built with React Native and Supabase.
 ## 📫 Contact Me
 
 - 📧 Email: contact@abran.work  
-- 💼 LinkedIn: https://www.linkedin.com/in/abran-p  
+- 💼 LinkedIn: https://www.linkedin.com/in/abran-paul  
 
 ---
 
