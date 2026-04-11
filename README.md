@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 3.5+ years experience as a Full-Stack Java Developer  
+- 👨‍💻 4.5+ years experience as a Full-Stack Java Developer  
 - 📱 Currently building mobile apps using **React Native (Expo) + Supabase**  
 - 🌱 Learning **Kotlin & modern backend architectures**  
 - 🎯 Focused on building scalable, user-friendly applications  
