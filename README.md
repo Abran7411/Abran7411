@@ -46,11 +46,15 @@ A Tamil literature learning app built with React Native and Supabase.
 
 ---
 
+## 👨‍💻 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Abran7411&color=blueviolet)
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abran7411&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abran7411&layout=compact&theme=dracula"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abran7411&theme=dracula"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Abran7411&theme=dracula"/>
 </div>
 
 ---
