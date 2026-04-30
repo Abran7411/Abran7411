@@ -85,7 +85,7 @@ I'm actively looking for my next role in Berlin.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abran--paul-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/abran-paul)
 [![Email](https://img.shields.io/badge/Email-contact@abran.work-EA4335?style=flat&logo=gmail)](mailto:contact@abran.work)
-[![Phone](https://img.shields.io/badge/Berlin-+49%201734956459-34A853?style=flat)](tel:+491734956459)
+[![Phone](https://img.shields.io/badge/Berlin-+49%201734956459-34A853?style=flat)](tel:+4917632181579)
 
 ---
 
